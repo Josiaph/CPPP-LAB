@@ -1,1 +1,1 @@
-# CPPP-LAB
+# CP-LAB
